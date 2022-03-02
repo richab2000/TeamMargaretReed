@@ -1,0 +1,42 @@
+Food Type,Size,fdcId,Brand,Energy,Protein,"Fiber, total dietary","Folate, DFE","Calcium, Ca","Carbohydrate, by difference","Iron, Fe","Magnesium, Mg",Niacin,"Phosphorus, P","Potassium, K",Riboflavin,Thiamin,"Vitamin A, RAE",Vitamin B-12,Vitamin B-6,"Vitamin C, total ascorbic acid",Vitamin E (alpha-tocopherol),Vitamin K (phylloquinone),"Zinc, Zn","Sodium, Na",Type
+Asparagus,100 g/1 hectogram,1956233,PERO FAMILY FARMS ,18 kcal,2.35 g,2.4 g,52 µg,24 mg,3.53 g,2.12 mg,14 mg,0.978 mg,52 mg,202 mg,0.141 mg,0.143 mg,38 µg,0 µg,0.091 mg,5.9 mg,1.13 mg,41.6 µg,0.54 mg,2 mg,M
+Avocado Chunks,100 g/1 hectogram,1102652,Survey (FNDDS),160 kcal,2 g,6.7 g,81 µg,12 mg,8.53 g,0.55 mg,29 mg,1.74 mg,52 mg,485 mg,0.13 mg,0.067 mg,7 µg,0 µg,0.257 mg,10 mg,2.07 mg,21 µg,0.64 mg,7 mg,M
+Flavored Brown Rice,100 g/1 hectogram,1102470,Survey (FNDDS),106 kcal,2.76 g,1.2 g,10 µg,7 mg,19.3 g,0.39 mg,37 mg,1.68 mg,89 mg,81 mg,0.04 mg,0.071 mg,16 µg,0 µg,0.106 mg,0 mg,0.35 mg,2.4 µg,0.99 mg,293 mg,M
+Carrots,100 g/1 hectogram,1871703, FULL CIRCLE MARKET,38 kcal,1.28 g,2.6 g,19 µg,38 mg,8.97 g,0.26 mg,12 mg,0.983 mg,35 mg,321 mg,0.058 mg,0.066 mg,835 µg,0 µg,0.138 mg,6.4 mg,0.66 mg,13.2 µg,0.24 mg,71 mg,M
+Chicken,100 g/1 hectogram,2090362,"Wegmans Food Markets, Inc.",188 kcal,24.7 g,0 g,8 µg,0 mg,1.18 g,0.42 mg,23 mg,7.57 mg,236 mg,278 mg,0.181 mg,0.07 mg,8 µg,0.36 µg,0.246 mg,0 mg,0 mg,0 µg,1.6 mg,353 mg,M
+Chickpeas,100 g/1 hectogram,1925585,13 Foods LLC,175 kcal,8.75 g,13.8 g,155 µg,50 mg,27.5 g,2.7 mg,60 mg,0.464 mg,156 mg,368 mg,0.056 mg,0.102,1 µg,0 µg,0.123 mg,1.5 mg,1.09 mg,11.4 µg,1.5 mg,11 mg,M
+Greek Yogurt,100 g/1 hectogram,468388,Fresh & Easy,73 kcal,8 g,0  g,7 µg,100 mg,10 g,0 mg,11 mg,0.211 mg,136 mg,119 mg,0.281 mg,0.022 mg,1 µg,0.7 µg,0.064 mg,0 mg,0.01 mg,0 µg,0.53 mg,33 mg,M
+Pear,100 g/1 hectogram,1102682,Survey (FNDDS),57 kcal,0.36 g,3.1 g,7 µg,9 mg,15.2 g,0.18 mg,7 mg,0.161 mg,12 mg,116 mg,0.026 mg,0.012 mg,1 µg,0 µg,0.029 mg,4.3 mg,0.12 mg,4.4 µg,0.1 mg,1 mg,M
+White Potatoes,100 g/1 hectogram,1102879,Survey (FNDDS),125 kcal,1.87 g,1.4 g,9 µg,5 mg,20.4 g,0.34 mg,24 mg,1.32 mg,48 mg,372 mg,0.021 mg,0.1 mg,18 µg,0 µg,0.312 mg,12.1 mg,0.52 mg,4.1 µg,0.28 mg,167 mg,M
+Raspberries,100 g/1 hectogram,1102708,Survey (FNDDS),52 kcal,1.2 g,6.5 g,21 µg,25 mg,11.9 g,0.69 mg,22 mg,0.598 mg,29 mg,151 mg,0.038 mg,0.032 mg,2 µg,0 µg,0.055 mg,26.2 mg,0.87 mg,7.8 µg,0.42 mg,1 mg,M
+Salmon,100 g/1 hectogram,1098977,Survey (FNDDS),160 kcal,25.8 g,0 g,4 µg,9 mg,0 g,0.48 mg,31 mg,8.55 mg,295 mg,391 mg,0.119 mg,0.08 mg,35 µg,4.44 µg,0.615 mg,0 mg,0.5 mg,0.5 µg,0.49 mg,407 mg,M
+Strawberries,100 g/1 hectogram,1102710,Survey (FNDDS),32 kcal,0.67 g,2 g,24 µg,16 mg,7.68 g,0.41 mg,13 mg,0.386 mg,24 mg,153 mg,0.022 mg,0.024 mg,1 µg,0 µg,0.047 mg,58.8 mg,0.29 mg,2.2 µg,0.14 mg,1 mg,M
+Unsalted Almonds,100 g/1 hectogram,42101130,Survey (FNDDS),607 kcal,20.3 g,10.6 g,53 µg,260 mg,20.4 g,3.62 mg,271 mg,3.53 mg,457 mg,692 mg,1.16 mg,0.075 mg,0 µg,0 µg,0.132 mg,0 mg,23.5 mg,3.5 µg,3.21 mg,3 mg,M
+Walnuts,100 g/1 hectogram,42116000,Survey (FNDDS),654 kcal,15.2 g,6.7 g,98 µg,98 mg,13.7 g,2.91 g,158 mg,1.12 mg,346 mg,441 mg,0.15 mg,0.341 mg,1 µg,0 µg,0.537 mg,1.3 mg,0.7 mg,2.7 µg,3.09 mg,2 mg,M
+White Beans,100 g/1 hectogram,1100368,Survey (FNDDS),187 kcal,9.04 g,5.9 g,72 µg,84 mg,23.3 g,3.45 mg,59 mg,0.124 mg,105 mg,521 mg,0.041 mg,0.104 mg,0 µg,0 µg,0.082 mg,0 mg,1.64 mg,10.9 µg,1.28 mg,221 mg,M
+Whole Wheat Pita,100 g/1 hectogram,1100761,Survey (FNDDS),262 kcal,9.8 g,6.1 g,35 µg,15 mg,55.9 g,3.06 mg,69 mg,2.84 mg,180 mg,170 mg,0.08 mg,0.339 mg,0 µg,0 µg,0.265 mg,0 mg,0.61 mg,1.4 µg,1.52 mg,421 mg,M
+Black Eyed Peas,,1992697,Washington Beef Inc.,165 kcal,7.18 g,6 g,184 µg,23 mg,19.3 g,2.34 mg,49 mg,0.437 mg,145 mg,595 mg,0.049 mg,0.178 mg,1 µg,0 µg,0.088 mg,0.4 mg,1.02 mg,9.2 µg,1.2 mg,220 mg,C
+Black Pepper,,170931," Finlay Extracts & Ingredients USA, Inc. ",251 kcal,10.4 g,25.3 g,17 µg,443 mg,64 g,9.71 mg,171 mg,1.14 mg,158 mg,1330 mg,0.18 mg,0.108 mg,27 µg,0 µg,0.192 mg,0 mg,na,na,na,0 mg,C
+Black Rice,,1931265,VILLAGE HARVEST ,353 kcal,7.84 g,9.80 g,na,0 mg,76.47 g,0.98 mg,na,na,na,157 mg,na,na,na,na,na,na,na,na,na,78 mg,C
+Canola Oil,,1855266,"Goya Foods, Inc. ",857 kcal,0 g,na,na,na,0 g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0 mg,C
+Carrots,,1871703, FULL CIRCLE MARKET,38 kcal,1.28 g,2.6 g,na,38 mg,0 g,0.26 mg,na,na,na,321 mp,na,na,na,na,na,6.4 mg,na,na,na,71 mg,C
+Cilantro,,399147, Morton Bassett Inc. ,0 kcal,0 g,na,na,na,0 g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0 mg,C
+Ginger,,2064396,GOODNESS GARDENS ,125 kcal,0 g,0 g,na,na,75 g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,250 mg,C
+Jalapeno Peppers,,2067859, Overseas Food Dist Inc. ,21 kcal,0 g,0 g,29µg,179 mg,53.6 g,0 mg,23 mg,1.86mg,141mg,233mg,0.284mg,0.19,1790 IU,na,na,17.1 mg,na,na,na,214 mg,C
+Lemon Juice,,1932420,Van Law Food Products Inc. ,0 kcal,0 g,na,na,na,0 g,na,na,na,na,na,na,0.19mg,0 IU ,0.39 µg,0.28 mg,24 mg,2.8mg,19.8 µg,0.98mg,0 mg,C
+Lime Juice,,168156,Survey (FNDDS),25 kcal,0.42 g,0.4 g,10 µg	,14 mg,8.42 g,0.09 mg,8 mg,0.142 mg,14 mg,117 mg,0.015 mg,0.025 mg,2 µg,0 µg	,0.038 µg	,30 mg,0.22 mg,0.6 µg,0.08 mg,2 mg,C
+Parsley,,1663057, Casa Imports Inc.,0 kcal,0 g,na,na,na,0 g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0 mg,C
+Pepper Bell Red Whole,,75226060,Survey (FNDDS),89.2 kcal,1.01 g,2.1 g,39 µg,8 mg,6.09 g,0.44 mg,12 mg,0.938 mg,27 mg,213 mg,0.082 mg,0.049 mg,162 µg,0 µg,0.281 µg,110 mg,1.9 mg,7.4 µg,0.25 mg,131 mg,C
+Salt,,1999628,Survey (FNDDS),0 kcal,0 g,na,na,na,0 g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,39333 mg,C
+Shiitake Mushroom,,1999628,Survey (FNDDS),44 kcal,2.41 g,na,32 µg	,1 mg,8.17 g,0.14 mg,14.1 mg,2.74 mg,76 mg,243 mg,0.216 mg,0.001 mg,na,na,0.159 mg,na,na,na,0.76 mg,1 mg,C
+Sugar,,2021609," Food Services Of America, Inc. ",375 kcal,0 g,na,na,na,100 g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0 mg,C
+Vinegar,,1102778,Survey (FNDDS),21 kcal,0 g,0 g,0 µg,7 mg,0.93 g,0.2 mg,5 mg,0 mg,8 mg,73 mg,0 mg,0 mg,na,0 µg,0 mg,0 mg,0 mg,0 µg,0.04 mg,5 mg,C
+Halal Beef,,,,159.54,3.38,47.63,0.52,0.02,182.97,17.3,35.06,N/A,0,11.06,N/A,187.23,0.08,14.28,2.69,1.65,1.02,11.22,2.35,,C
+Black Pepper,,2157235,ROUNDY'S,0,0,41.7g,na,0,166.67g,0,na,na,na,na,na,na,0,na,na,0,na,na,na,0,C
+Canola Oil,,2010668,food club,857kcal,0,na,na,na,0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,0,C
+Extra Virgin Olive Oil,,1589041,CARAPELLI,0,0,na,na,0,166.67g,0,na,na,na,na,na,na,0,na,na,0,na,na,na,0,C
+Halal Ground Beef,,1098213,none brand,260kcal,25.54g,0g,7ug,17mg,0g,na,na,na,na,na,na,na,na,na,na,na,na,na,na,na,C
+Parsley,,2195599,WEGMANS,200kcal,0,na,na,na,0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,1100mg,C
+Salt,,2120877,MORTON,0,0,na,na,na,0,na,na,na,na,na,na,na,na,na,na,na,na,na,na,39333mg,C
+Halal Chicken ,,,,,,,,,,,,,,,,,,,,,,,,,C
+Hominy and Squash Medley Bear Fit Bowl,,,,267.42,0.49,0,44.77,17.9,3668.81,95.7,377.13,N/A,0,4.85,N/A,1062.01,9.11,11.12,70.9,2.79,2.91,939,0.31,,C
