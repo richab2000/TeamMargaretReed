@@ -1,0 +1,33 @@
+Ingredients,Meal Name,Size,ID,fdcId,Brand,Energy,Protein,"Fiber, total dietary","Folate, DFE","Calcium, Ca","Carbohydrate, by difference","Iron, Fe","Magnesium, Mg",Niacin,"Phosphorus, P","Potassium, K",Riboflavin,Thiamin,"Vitamin A, RAE",Vitamin B-12,Vitamin B-6,"Vitamin C, total ascorbic acid",Vitamin E (alpha-tocopherol),Vitamin K (phylloquinone),"Zinc, Zn","Sodium, Na",Price
+Asparagus,Mediterranean,100 g/1 hectogram,11011,1956233,PERO FAMILY FARMS ,18.00,2.35,2.40,52.00,24.00,3.53,2.12,14.00,0.98,52.00,202.00,0.141,0.143,38,0,0.091,5.9,1.13,41.6,0.54,2,1.88
+Avacado Chunks,Mediterranean,100 g/1 hectogram,9037,1102652,Survey (FNDDS),160.00,2.00,6.70,81.00,12.00,8.53,0.55,29.00,1.74,52.00,485.00,0.13,0.067,7,0,0.257,10,2.07,21,0.64,7,2.5
+Flavored Brown Rice,Mediterranean,100 g/1 hectogram,20040,1102470,Survey (FNDDS),106.00,2.76,1.20,10.00,7.00,19.30,0.39,37.00,1.68,89.00,81.00,0.04,0.071,16,0,0.106,0,0.35,2.4,0.99,293,6
+Carrots,Mediterranean,100 g/1 hectogram,11124,1871703, FULL CIRCLE MARKET,38.00,1.28,2.60,19.00,38.00,8.97,0.26,12.00,0.98,35.00,321.00,0.058,0.066,835,0,0.138,6.4,0.66,13.2,0.24,71,1
+Chicken,Mediterranean,100 g/1 hectogram,5062,2090362,"Wegmans Food Markets, Inc.",188.00,24.70,0.00,8.00,0.00,1.18,0.42,23.00,7.57,236.00,278.00,0.181,0.07,8,0.36,0.246,0,0,0,1.6,353,8
+Chickpeas,Mediterranean,100 g/1 hectogram,16057,1925585,13 Foods LLC,175.00,8.75,13.80,155.00,50.00,27.50,2.70,60.00,0.46,156.00,368.00,0.056,0.102,1,0,0.123,1.5,1.09,11.4,1.5,11,2
+Greek Yogurt,Mediterranean,100 g/1 hectogram,1256,468388,Fresh & Easy,73.00,8.00,0.00,7.00,100.00,10.00,0.00,11.00,0.21,136.00,119.00,0.281,0.022,1,0.7,0.064,0,0.01,0,0.53,33,6
+Pear,Mediterranean,100 g/1 hectogram,9252,1102682,Survey (FNDDS),57.00,0.36,3.10,7.00,9.00,15.20,0.18,7.00,0.16,12.00,116.00,0.026,0.012,1,0,0.029,4.3,0.12,4.4,0.1,1,2
+White Potatoes,Mediterranean,100 g/1 hectogram,11362,1102879,Survey (FNDDS),125.00,1.87,1.40,9.00,5.00,20.40,0.34,24.00,1.32,48.00,372.00,0.021,0.1,18,0,0.312,12.1,0.52,4.1,0.28,167,3
+Raspberries,Mediterranean,100 g/1 hectogram,9302,1102708,Survey (FNDDS),52.00,1.20,6.50,21.00,25.00,11.90,0.69,22.00,0.60,29.00,151.00,0.038,0.032,2,0,0.055,26.2,0.87,7.8,0.42,1,7
+Salmon,Mediterranean,100 g/1 hectogram,15076,1098977,Survey (FNDDS),160.00,25.80,0.00,4.00,9.00,0.00,0.48,31.00,8.55,295.00,391.00,0.119,0.08,35,4.44,0.615,0,0.5,0.5,0.49,407,13
+Strawberries,Mediterranean,100 g/1 hectogram,9316,1102710,Survey (FNDDS),32.00,0.67,2.00,24.00,16.00,7.68,0.41,13.00,0.39,24.00,153.00,0.022,0.024,1,0,0.047,58.8,0.29,2.2,0.14,1,5
+Unsalted Almonds,Mediterranean,100 g/1 hectogram,12061,42101130,Survey (FNDDS),607.00,20.30,10.60,53.00,260.00,20.40,3.62,271.00,3.53,457.00,692.00,1.16,0.075,0,0,0.132,0,23.5,3.5,3.21,3,11
+Walnuts,Mediterranean,100 g/1 hectogram,12155,42116000,Survey (FNDDS),654.00,15.20,6.70,98.00,98.00,13.70,2.91,158.00,1.12,346.00,441.00,0.15,0.341,1,0,0.537,1.3,0.7,2.7,3.09,2,8
+White Beans,Mediterranean,100 g/1 hectogram,16051,1100368,Survey (FNDDS),187.00,9.04,5.90,72.00,84.00,23.30,3.45,59.00,0.12,105.00,521.00,0.041,0.104,0,0,0.082,0,1.64,10.9,1.28,221,1.67
+Whole Wheat Pita,Mediterranean,100 g/1 hectogram,18413,1100761,Survey (FNDDS),262.00,9.80,6.10,35.00,15.00,55.90,3.06,69.00,2.84,180.00,170.00,0.08,0.339,0,0,0.265,0,0.61,1.4,1.52,421,3.5
+Black Peas,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,16057,1992697,Washington Beef Inc.,165.00,7.18,6.00,184.00,23.00,19.30,2.34,49.00,0.44,145.00,595.00,0.049,0.178,1,0,0.088,0.4,1.02,9.2,1.2,220,3
+Black Rice,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,20090,1102466,VILLAGE HARVEST ,136.00,3.29,0.40,47.00,29.00,24.10,0.74,11.00,0.00,46.00,56.00,0.025,0.152,1,0.01,0.12,1,0.32,3.2,0.33,414,12
+Carrots,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,1871703,1103193, FULL CIRCLE MARKET,41.00,0.93,2.80,19.00,33.00,9.58,0.30,12.00,0.98,35.00,320.00,0.059,0.066,835,0,0.138,5.9,0.66,13.2,0.24,69,1
+Cilantro,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,11165,1103350, Morton Bassett Inc. ,23.00,2.13,2.80,62.00,67.00,3.67,1.77,26.00,1.11,48.00,521.00,0.162,0.067,337,0,0.149,27,2.5,310,0.5,46,1.3
+Jalapeno Peppers,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,11979,2067859, Overseas Food Dist Inc. ,21.00,0.00,0.00,29.00,179.00,53.60,0.00,23.00,1.86,141.00,233.00,0.284,0.19,1790,0.39,0.28,17.1,0,19.8,0.98,214,1
+Lemon Juice,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,9150,1932420,Van Law Food Products Inc. ,0.00,0.00,0.30,20.00,6.00,0.00,0.08,6.00,0.09,8.00,103.00,0.015,0.19,0,0.39,0.28,24,2.8,19.8,0.98,0,0.75
+Lime Juice,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,916-,168156,Survey (FNDDS),25.00,0.42,0.40,10.00,14.00,8.42,0.09,8.00,0.14,14.00,117.00,0.015,0.025,2,0,0.038,30,0.22,0.6,0.08,2,0.6
+Pepper Bell Red Whole,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,11821,75226060,Survey (FNDDS),892.00,1.01,2.10,39.00,8.00,6.09,0.44,12.00,0.94,27.00,213.00,0.082,0.049,162,0,0.281,110,1.9,7.4,0.25,131,2
+Shiitake Mushroom,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,11238,169242,Survey (FNDDS),34.00,2.24,2.50,13.00,2.00,6.79,0.41,20.00,3.88,112.00,304.00,0.217,0.015,0,0,0.293,0,0,0.49,1.03,9,6
+Sugar,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,19335,2021609," Food Services Of America, Inc. ",375.00,0.00,0.00,0.00,1.00,100.00,0.05,0.00,0.00,0.00,2.00,0.019,0,0,0,0,0,0,0,0.01,38579,4.3
+Vinegar,Forbidden Rice and Escabeche Bear Fit Bowl,100 g/1 hectogram,2053,1102778,Survey (FNDDS),21.00,0.00,0.00,0.00,7.00,0.93,0.20,5.00,0.00,8.00,73.00,0,0,0,0,0,0,0,0,0.04,5,4
+Black Pepper,Halal Beef,100 g/1 hectogram,1002030,170931,Survey (FNDDS),251.00,10.40,25.30,17.00,443.00,64.00,9.71,171.00,1.14,158.00,1330,0.18,0.108,27,0,0.291,0,0,164,1.19,20,3.5
+Halal Ground Beef,Halal Beef,100 g/1 hectogram,10023572,1098212,none brand,247.00,25.54,0.00,7.00,17.00,0.00,1.97,17.00,4.30,160.00,274.00,0.151,0.043,4,2.15,0.328,0,0.17,1.7,4.23,66,10.5
+Parsley,Halal Beef,100 g/1 hectogram,11297,1103365,Survey (FNDDS),36.00,2.97,3.30,152.00,138.00,6.33,6.20,50.00,1.31,58.00,554.00,0.098,0.086,421,0,0.06,133,0.75,1640,1.07,50,1
+Salt,Halal Beef,100 g/1 hectogram,2047,746775,MORTON,0.00,0.00,0.00,0.00,50.00,0.00,0.00,0.00,0.00,0.00,2.00,0,0,0,0,0,0,0,0,0,38700,1.5
+Halal Chicken ,Halal Chicken,100 g/1 hectogram,1055062,2090362,"Wegmans Food Markets, Inc.",188.00,24.70,0.00,8.00,0.00,1.18,0.42,23.00,7.57,236.00,278.00,0.181,0.07,8,0.36,0.246,0,0,0,1.6,353,8
